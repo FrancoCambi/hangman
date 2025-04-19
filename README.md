@@ -1,5 +1,7 @@
 # 🪓 Hangman Game
 
+This readme is also available in [Spanish](README.es.md)
+
 A visual version of the classic **Hangman** game built with **Python** and **Pygame**. The player tries to guess a hidden word one letter at a time. With every wrong guess, a part of the hanged person appears on screen — until the full figure is drawn and the game is lost!
 
 ---
